@@ -1,0 +1,4 @@
+document.addeventlistener("DOMcontentloaded", function (event)) {
+    var sand1 = document.getElementById('mondayimage')
+    console.log(sand1)
+})

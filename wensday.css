@@ -1,0 +1,47 @@
+#mondayimage{
+    width:280px;
+    height: 200px;
+}
+
+#tuesdayimage {
+    width: 280px; 
+    height: 200px;
+}
+
+#wensdayimage {
+    width: 280px;
+    height: 200px;
+}
+
+#thursdayimage {
+    width: 280px;
+    height: 200px;
+}
+
+#fridayimage {
+    width:280px;
+    height:200px
+}
+
+#shabbatimage {
+    width:280px;
+    height:200px;
+}
+
+
+div {
+    border: solid 2px black;
+    margin: 8px;
+    text-align: center;
+    width: 25%;
+}
+body {
+    display: flex;
+    align-content: space-around;
+    text-align: center;
+}
+
+
+#title {
+    position: fixed;
+}
