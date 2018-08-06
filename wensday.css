@@ -1,47 +1,59 @@
-#mondayimage{
-    width:280px;
-    height: 200px;
+#lunch.jpg{
+    width:20%;
+    height: 20%;
 }
 
-#tuesdayimage {
-    width: 280px; 
-    height: 200px;
+#morefood.jpg {
+    width: 20%; 
+    height: 20%;
 }
 
-#wensdayimage {
-    width: 280px;
-    height: 200px;
+#wens.jpg {
+    width: 20%;
+    height: 20%;
 }
 
-#thursdayimage {
-    width: 280px;
-    height: 200px;
+#thurs.jpg {
+    width: 20%;
+    height: 20%;
 }
 
-#fridayimage {
-    width:280px;
-    height:200px
+#fri.jpg {
+    width:20%;
+    height: 20%;
 }
 
-#shabbatimage {
-    width:280px;
-    height:200px;
+#sat.jpg {
+    width:20%;
+    height:20%;
 }
 
+#sun.jpg {
+    width: 20%;
+    height:20%; 
+
+}
 
 div {
     border: solid 2px black;
     margin: 8px;
     text-align: center;
     width: 25%;
-}
-body {
-    display: flex;
-    align-content: space-around;
+   
+} 
+
+ body {
+    align-content: left;
     text-align: center;
+    display: flex;
+    background-color: lightpink
 }
 
 
 #title {
     position: fixed;
+}
+
+.jpg {
+    width: 100%;
 }
