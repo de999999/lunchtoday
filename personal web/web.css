@@ -1,0 +1,7 @@
+body {
+background-image: url("pic.jpeg");
+height:200%;
+background-repeat: no-repeat;
+background-size: cover;
+box-sizing: border-box;
+}
